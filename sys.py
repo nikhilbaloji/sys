@@ -7,8 +7,8 @@ if len(sys.argv) == 3:
     print("User provided input values:")
 else:
     script_name = sys.argv[0]
-    name = "Deepa"
-    rollno = "101"
+    name = "Nikhil"
+    rollno = "032"
     print("No input given using default values:")
 
 print("Script Name:", script_name)
